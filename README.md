@@ -7,6 +7,17 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Np91epHP95wkJKSACQgpPWMwDm6dnieT/view?usp=sharing)
 
+
+
+<video width="320" height="240" loop autoplay>
+  <source src="https://github.com/DopeBiscuit/DopeBiscuit/assets/113354809/e3e27416-469f-43e1-9853-7dd02acc670d" type="video/mp4">
+</video>
+
+
+
+
+
+
 ---
 
 <section>
