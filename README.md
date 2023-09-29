@@ -10,12 +10,6 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Np91epHP95wkJKSACQgpPWMwDm6dnieT/view?usp=sharing)
 
-
-
-
-
-
-
 ---
 
 <section>
@@ -34,8 +28,32 @@
   </h2>
 </section>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dopebiscuit&show_icons=true&locale=en&layout=compact" alt="dopebiscuit" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dopebiscuit&show_icons=true&locale=en" alt="dopebiscuit" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dopebiscuit&theme=dark)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dopebiscuit&" alt="dopebiscuit" /></p>
+<br>
+
+<section align="center">
+  <h3 align="left">Skills:</h2>
+  <img src="https://skillicons.dev/icons?i=c,cpp,regex,py,pytorch,tensorflow" />
+   <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flask,sqlite,selenium"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=postman,matlab,visualstudio,vscode,atom,blender,arduino,eclipse,git,github,md" />
+</section>
+
+---
+
+<section>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dopebiscuit&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&" alt="dopebiscuit" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dopebiscuit&show_icons=true&locale=en&theme=radical&bg_color=00000000&hide=contribs" alt="dopebiscuit" />
+</a>
+
+</section>
+
+
+
