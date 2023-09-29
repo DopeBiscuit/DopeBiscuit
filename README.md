@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 
-![Cover Photo](https://github.com/DopeBiscuit/DopeBiscuit/assets/113354809/34b1938a-b87d-4280-91a8-ae2a4e4894ae)
+![Cover Photo](https://github.com/DopeBiscuit/DopeBiscuit/blob/main/Cover%20Photo.png?raw=true)
 
 <h3 align="center">An enthusiastic Computer Engineer</h3>
   
