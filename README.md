@@ -28,12 +28,6 @@
   </h2>
 </section>
 
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dopebiscuit&theme=radical&exclude_days=Fri%2CSat&background=000000)](https://git.io/streak-stats)
-
-<br>
-
 <section align="center">
   <h3 align="left">Skills:</h2>
   <img src="https://skillicons.dev/icons?i=c,cpp,regex,py,pytorch,tensorflow" />
@@ -47,13 +41,9 @@
 
 <section>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dopebiscuit&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&" alt="dopebiscuit" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dopebiscuit&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&hide_border=false" alt="dopebiscuit" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dopebiscuit&show_icons=true&locale=en&theme=radical&bg_color=00000000&hide=contribs" alt="dopebiscuit" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dopebiscuit&show_icons=true&locale=en&theme=radical&bg_color=00000000&hide=contribs&hide_border=false&" alt="dopebiscuit" />
 </a>
-
 </section>
-
-
-
