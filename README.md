@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">An enthusiastic Computer Engineer</h3>
 
+![Cover Photo](https://github.com/DopeBiscuit/DopeBiscuit/assets/113354809/34b1938a-b87d-4280-91a8-ae2a4e4894ae)
+
+<h3 align="center">An enthusiastic Computer Engineer</h3>
+  
 - 🔭 I’m currently working on [IEEE IT Digital IC Design Tasks](https://github.com/DopeBiscuit/IEEE-Digital-IC-Design)
 
 - 🌱 I’m currently learning **Next.js, DS & Algo, Computer Networking**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Np91epHP95wkJKSACQgpPWMwDm6dnieT/view?usp=sharing)
 
-
-
-<video width="320" height="240" loop autoplay>
-  <source src="https://github.com/DopeBiscuit/DopeBiscuit/assets/113354809/e3e27416-469f-43e1-9853-7dd02acc670d" type="video/mp4">
-</video>
 
 
 
