@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, DS & Algo, Computer Networking**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Np91epHP95wkJKSACQgpPWMwDm6dnieT/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1U1s_hBGucUOHhPI2o-Z7Tqd2jQMDdUrV/view?usp=sharing)
 
 ---
 
