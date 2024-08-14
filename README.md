@@ -4,7 +4,7 @@
 
 <h3 align="center">An enthusiastic Computer Engineer</h3>
   
-- 🔭 I’m currently working on [IEEE IT Digital IC Design Tasks](https://github.com/DopeBiscuit/IEEE-Digital-IC-Design)
+- 🔭 I’m currently working on [Slaughterhouse Management information system](https://github.com/dizzydroid/slaughterhouse_mis)
 
 - 🌱 I’m currently learning **Next.js, DS & Algo, Computer Networking**
 
