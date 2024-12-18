@@ -4,11 +4,11 @@
 
 <h3 align="center">An enthusiastic Computer Engineer</h3>
   
-- 🔭 I’m currently working on [Slaughterhouse Management information system](https://github.com/dizzydroid/slaughterhouse_mis)
+- 🔭 I’m currently working on [Smart Traffic Light System ASIC](https://github.com/DopeBiscuit/Smart-Traffic-Light-System-ASIC)
 
-- 🌱 I’m currently learning **Next.js, DS & Algo, Computer Networking**
+- 🌱 I’m currently learning **Digital Design, Digital Verification, DS & Algo**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1U1s_hBGucUOHhPI2o-Z7Tqd2jQMDdUrV/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16nQxXCPMjn8n8BjQOVtUcBTvh3vnvmfN/view?usp=sharing)
 
 ---
 
