@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development, Software Engineering, Cloud Applications**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16nQxXCPMjn8n8BjQOVtUcBTvh3vnvmfN/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13lzo9w5LgX33ZVAc6ZkPqwK-rBcRxeqb/view?usp=sharing)
 
 ---
 
@@ -32,7 +32,7 @@
    <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flask,sqlite,selenium"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=postman,matlab,visualstudio,vscode,atom,blender,arduino,eclipse,git,github,md" />
+  <img src="https://skillicons.dev/icons?i=postman,matlab,vscode,arduino,git,github,md" />
 </section>
 
 ---
