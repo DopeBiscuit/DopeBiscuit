@@ -4,9 +4,9 @@
 
 <h3 align="center">An enthusiastic Computer Engineer</h3>
   
-- 🔭 I’m currently working on [Smart Traffic Light System ASIC](https://github.com/DopeBiscuit/Smart-Traffic-Light-System-ASIC)
+- 🔭 I’m currently working on some private automation work.
 
-- 🌱 I’m currently learning **Digital Design, Digital Verification, DS & Algo**
+- 🌱 I’m currently learning **Backend Development, Software Engineering, Cloud Applications**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16nQxXCPMjn8n8BjQOVtUcBTvh3vnvmfN/view?usp=sharing)
 
