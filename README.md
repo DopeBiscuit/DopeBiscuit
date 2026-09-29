@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development, Software Engineering, Cloud Applications**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MZUZuRvXf7kJTkeRumMVWUGIoXfnaYCd/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1vfF4-3Fqulwd5QTN8fmHoKnNXeMOSFuV/view?usp=sharing)
 
 ---
 
