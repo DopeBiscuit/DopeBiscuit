@@ -36,7 +36,7 @@
 </section>
 
 ---
-
+<!---
 <section>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dopebiscuit&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&hide_border=false" alt="dopebiscuit" />
@@ -45,3 +45,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dopebiscuit&show_icons=true&locale=en&theme=radical&bg_color=00000000&hide=contribs&hide_border=false&" alt="dopebiscuit" />
 </a>
 </section>
+-->
